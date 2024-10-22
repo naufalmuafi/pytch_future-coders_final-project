@@ -1,1 +1,5 @@
-# Final Project of Future Coders
+# Final Group Project
+
+
+Final Group Project for Future Coders Student
+Jago Robotika
