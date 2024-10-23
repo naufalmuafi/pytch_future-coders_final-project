@@ -1,8 +1,7 @@
 # Final Group Project
 
 
-Final Group Project for Future Coders Student <br>
-Jago Robotika
+Final Group Project for Future Coders Student
 
 Each folder contains:
 
